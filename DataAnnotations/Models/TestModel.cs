@@ -1,4 +1,4 @@
-﻿namespace DataAnnotations
+﻿namespace DataAnnotations.Models
 {
     using System;
 

@@ -4,6 +4,7 @@
     using System.Collections.Generic;
     using System.ComponentModel.DataAnnotations;
     using FluentAssertions;
+    using Models;
     using Xunit;
 
     public class CompareDateGreaterThanAttributeTests
